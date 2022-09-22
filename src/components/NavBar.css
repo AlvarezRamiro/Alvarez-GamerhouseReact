@@ -1,0 +1,24 @@
+.barra{
+color: rgb(0, 162, 54)
+;
+}
+
+.navbar{
+    display: grid;
+}
+
+.botones{
+    
+    display: flex;
+    justify-content:center;
+   gap: 25px;
+}
+
+.boton{
+background-color: rgba(242, 242, 242, 0);
+border-color: rgba(250, 235, 215, 0);
+}
+
+.boton:hover {
+    color: orangered;
+}
